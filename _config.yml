@@ -2,14 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://221prospect.com
-title: 221 Prospect
-email: info@221prospect.com
-author: Alan McConchie
+url: https://osssanitizer.github.io
+title: OSSSanitizer
+email: osssanitizer@gmail.com
+author: OSSSanitizer
 description: > # "Write an awesome description for your new site here. 
-  Coming soon at 221 Prospect: meeting space, event rental, coworking for designers and creatives. In the heart of the Downtown Bellingham Arts District
-copyright: 'Copyright &copy; 2016 Alan McConchie. All Rights Reserved.'
-credits: '221 Prospect Street, Bellingham, WA 98225'
+OSSSanitizer is a suite of webservices to manage security and legal risks
+introduced by OSS components in your apps.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -25,8 +24,8 @@ permalink: pretty
 
 social:
 #  - title: twitter
-#    url: https://twitter.com/221prospect
+#    url: https://osssanitizer.github.io
 #  - title: github
-#    url: https://github.com/IronSummitMedia/startbootstrap
+#    url: https://osssanitizer.github.io
 #  - title: email
 #    url: mailto:info@221prospect.com
