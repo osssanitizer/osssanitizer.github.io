@@ -24,7 +24,7 @@ github_username:  osssanitizer
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: midnight
 #plugins:
 #  - jekyll-feed
 
