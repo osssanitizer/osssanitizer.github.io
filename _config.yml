@@ -7,6 +7,9 @@ keywords: "OSS, Open Source, Security, License Violations, GPL, Risk Assesment, 
 skills: "Automated Risk Assesment and Mitigation"
 meta_author: OSSSanitizer
 
+# Google Analytics
+google_analytics: UA-109487891-1
+
 # Google webmaster tools
 google_verify:
 
