@@ -95,8 +95,6 @@ members:
     img: ashish.jpg
     social:
       - title: linkedin #use for email address
-        url: mailto:@domain.com
-      - title: webpage
         url: https://sites.google.com/site/ashishbijlani/
       - title: google
         url: https://scholar.google.com/citations?user=h07HQ50AAAAJ&hl=en
@@ -106,8 +104,6 @@ members:
     img: ruian.jpg
     social:
       - title: linkedin #use for email address
-        url: mailto:name@domain.com
-      - title: webpage
         url: https://www.cc.gatech.edu/~rduan9
 
 # Clients information. Shown on Home and About pages.
