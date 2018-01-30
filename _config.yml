@@ -119,11 +119,11 @@ clients:
 about: "Automate Open Source Software Risk Management with OSSSanitizer"
 
 # Testimonial content. Shown on Home and About page.
-testimonial:
-    message1: "Thank you so much for your diligence.  We usually get reports of AGPL violators about 15 times per year.  It is an extraordinary day when we receive 9,824!!!"
-    author1: Miles Jones
-    position1: President, Artifex Software Inc.
-
-    message2: "We continue to contact license violators identified by your work.  Many have agreed to remove MuPDF, a few have agreed to become commercial customers."
-    author2: Henry Stiles
-    position2: VP of Engineering, Artifex Software Inc.
+#testimonial:
+#    message1: "Thank you so much for your diligence.  We usually get reports of AGPL violators about 15 times per year.  It is an extraordinary day when we receive 9,824!!!"
+#    author1: Miles Jones
+#    position1: President, Artifex Software Inc.
+#
+#    message2: "We continue to contact license violators identified by your work.  Many have agreed to remove MuPDF, a few have agreed to become commercial customers."
+#    author2: Henry Stiles
+#    position2: VP of Engineering, Artifex Software Inc.
