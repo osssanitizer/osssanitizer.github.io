@@ -112,6 +112,8 @@ clients:
     img: artifex.png
   - name: FFMpeg 
     img: ffmpeg.png
+  - name: iTextPDF
+    img: itextpdf.png
 #  - name: VideoLAN
 #    img: videolan.png
 
