@@ -91,7 +91,7 @@ tel: +1 OSS SANITZE
 members:
   - name: Ashish Bijlani
     position: Co-founder
-    text: Ashish is a PhD student at Georgia Institute of Technology. He has over 10 years of industry experience in system software development.
+    text: Ashish is a PhD student at Georgia Institute of Technology. He has over 7 years of industry experience in system software development.
     img: ashish.jpg
     social:
       - title: linkedin #use for email address
@@ -100,7 +100,7 @@ members:
         url: https://scholar.google.com/citations?user=h07HQ50AAAAJ&hl=en
   - name: Ruian Duan
     position: Co-founder
-    text: Ruian is a PhD student at Georgia Institute of Technology. eceived B.E. degree from Department of Compute Science and Technology, Tsinghua University.
+    text: Ruian is a PhD student at Georgia Institute of Technology. He received B.E. degree from Department of Compute Science and Technology, Tsinghua University.
     img: ruian.jpg
     social:
       - title: linkedin #use for email address
