@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OSSPolice at Georgia Tech IISP CyberSecurity DemoDay Finale 2018"
-date: 2017-09-27 18:50
+date: 2018-04-14 14:20
 author: Ashish
 categories:
 - blog
