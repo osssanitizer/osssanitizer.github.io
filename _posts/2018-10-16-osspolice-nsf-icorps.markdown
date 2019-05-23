@@ -8,7 +8,7 @@ categories:
 - Gatech
 - NSF I-Corps
 - Customer Discovery
-img: icorps.png
+img: icorps.jpg
 thumb: icorps_tn.jpg
 ---
 
@@ -21,5 +21,5 @@ We created a [video] summarizing our finidings.
 
 Details on NSF I-Corps program are [here].
 
-[here]: https://www.cc.gatech.edu/news/606083/school-computer-science-students-osspolice-wins-atlanta-startup-battle
+[here]: https://www.nsf.gov/news/special_reports/i-corps/
 [video]: https://www.youtube.com/watch?v=lOh63S0XQWg
